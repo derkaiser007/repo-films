@@ -1,4 +1,4 @@
 # repo-films
-Reptile |
-Coda |
-The Hateful Eight |
+Reptile;
+Coda;
+The Hateful Eight;
