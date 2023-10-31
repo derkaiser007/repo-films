@@ -11,3 +11,8 @@ Adore;
 Queen of Heart;
 Chéri;
 A Bigger Splash(2015);
+Lie With Me;
+Closer;
+Glass Onion: A Knives Out Mystery;
+Breaking Bad;
+
