@@ -18,3 +18,6 @@ Breaking Bad;
 El Camino;
 Kohrra;
 House Of Cards;
+Squid Game;
+Money Heist;
+Sam Bahadur;
